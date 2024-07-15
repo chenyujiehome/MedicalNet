@@ -1,0 +1,1 @@
+python train.py --gpu_id 0 --n_epochs 2 --pretrain_path pretrain/supervised_med3D_residual_unet_1623.pth  --model_depth 101

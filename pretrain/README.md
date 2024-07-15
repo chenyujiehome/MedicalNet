@@ -1,0 +1,1 @@
+wget https://huggingface.co/jethro682/pretrain_mri/resolve/main/supervised_med3D_residual_unet_1623.pth
